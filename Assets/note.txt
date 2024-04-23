@@ -1,0 +1,12 @@
+A few things to note about this thing
+The maxwell model was of course ripped from another source
+Song you can play is from weebl's stockmarket, I might replace it with a copyright-free song if that actually becomes an issue
+meow from freesound, you probably recognize it from minecraft lmao
+Isometric viewing makes him look weird btw, if you wanna see what it'll actually look like then make sure you're in perspective view
+
+THINGS TO ADD/FIX
+The whisker texture doesn't properly show as transparent in-game despite it showing properly in unity
+And I'm not going to delete the whiskers, so, uh, yeah
+Also, the funny cat is the wrong way around when lying down on your desk in-game, and I have no idea how to reorient it correctly
+I also want you to be able to pet it, which is why there's a maxwell inside maxwell, it's meant to play the meow sound but it don't work
+I think that's it, might wanna put more into this stupid ass holdable later but for now, this is all

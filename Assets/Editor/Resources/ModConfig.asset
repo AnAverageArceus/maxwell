@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: dingus
+  title: dingus
+  author: AnAverageArceus
+  description: 'funni cat in office now, also you can play his music lol
+
+    NOTICE: Maxwell will likely be lying down when in your office, dunno how to fix
+    this
+
+    also the whiskers are not properly transparent, because the game doesn''t understand
+    it''s supposed to be that way, for some reason, love this game y''all, please
+    do help me fix this glaring issue, dingus deserves better :('
+  version: 1.0
+  outputFolder: C:\Program Files (x86)\Steam\steamapps\common\Keep Talking and Nobody
+    Explodes\mods
+  previewImage: {fileID: 2800000, guid: 33163447396046d4090deaa63d5753c8, type: 3}
